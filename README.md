@@ -60,3 +60,4 @@ Dans `js/data.js`, ajouter une ligne :
 - Les données (progression, questions du mentor, réglages) sont partagées entre les pages via le stockage local du navigateur. Questionnaires, moteur, résultats, contenus et couleurs sont inchangés.
 - Quitter une page pendant un test l'interrompt, comme toute navigation entre pages.
 - Les versions précédentes restent disponibles dans leurs zips respectifs.
+# jeuxconcour
